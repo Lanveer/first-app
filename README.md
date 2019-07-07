@@ -4,8 +4,13 @@
 1. android手机一部（最好是安卓6以上，需要打开开发者模式， 打开USB调试，方便电脑链接，测试方式可以使用adb devices, 可以查看电脑链接的手机数量，
 没有真机， 也可以使用模拟器
 ）
+
 2.翻墙工具， 因为在安装android studio 的时候会翻墙安装一些SDK
+
+
 3.配置好node环境之后，使用npm安装 npm install -g yarn react-native-cli （项目脚手架生成工具）
+
+
 4.默认是intel 的处理器电脑，AMD 的电脑配置需要执行搜索，以为涉及到模拟器的运行
 
 
