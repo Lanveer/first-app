@@ -11,13 +11,18 @@ import {
   View,
     ActivityIndicator
 } from 'react-native';
-
+import TabNavigator from 'react-native-tab-navigator';
 export default class HelloWorld extends Component {
+
+
   render() {
     return (
       <View style={styles.container}>
-      <Text style={styles.hello}>this is hello world page</Text>
+        <Text style={styles.hello}>this is hellowqw </Text>
+
       </View>
+
+
     );
   }
 }
